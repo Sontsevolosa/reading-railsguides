@@ -4,3 +4,4 @@
 
 ## Models
 * Active Record Basics: +
+* Active Record Migrations:
