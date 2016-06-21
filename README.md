@@ -3,4 +3,4 @@
 * Getting Started with Rails: +
 
 ## Models
-* Active Record Basics:
+* Active Record Basics: +
