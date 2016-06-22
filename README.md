@@ -5,4 +5,4 @@
 ## Models
 * Active Record Basics: +
 * Active Record Migrations: +
-* Active Record Validations:
+* Active Record Validations: +
