@@ -7,4 +7,4 @@
 * Active Record Migrations: +
 * Active Record Validations: +
 * Active Record Callbacks: +
-* Active Record Associations: 
+* Active Record Associations: +
