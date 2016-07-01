@@ -8,4 +8,4 @@
 * Active Record Validations: +
 * Active Record Callbacks: +
 * Active Record Associations: +
-* Active Record Query Interface (2/3): +
+* Active Record Query Interface: +
