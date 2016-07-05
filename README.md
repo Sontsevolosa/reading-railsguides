@@ -9,3 +9,4 @@
 * Active Record Callbacks: +
 * Active Record Associations: +
 * Active Record Query Interface: +
+* Active Model Basics:
