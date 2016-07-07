@@ -12,4 +12,4 @@
 * Active Model Basics: +
 
 ## Views
-* Action View Overview (1/3): + 
+* Action View Overview (1/2): + 
