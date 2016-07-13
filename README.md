@@ -13,3 +13,4 @@
 
 ## Views
 * Action View Overview: + 
+* Layouts and Rendering in Rails:
