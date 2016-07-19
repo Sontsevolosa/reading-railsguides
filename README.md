@@ -14,4 +14,4 @@
 ## Views
 * Action View Overview: + 
 * Layouts and Rendering in Rails: +
-* Action View Form Helpers (1/2): +
+* Action View Form Helpers (2/3): +
