@@ -18,4 +18,4 @@
 
 ## Controllers
 * Action Controller Overview: +
-* Rails Routing from the Outside In:
+* Rails Routing from the Outside In (1/2): +
