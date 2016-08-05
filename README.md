@@ -21,4 +21,4 @@
 * Rails Routing from the Outside In: +
 
 ## Digging Deeper
-* Active Support Core Extensions (1/5): +
+* Active Support Core Extensions (2/5): +
