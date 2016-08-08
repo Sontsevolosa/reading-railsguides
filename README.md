@@ -22,3 +22,4 @@
 
 ## Digging Deeper
 * Active Support Core Extensions: +
+* Rails Internationalization API:
