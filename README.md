@@ -24,4 +24,4 @@
 * Active Support Core Extensions: +
 * Rails Internationalization API: + 
 * Action Mailer Basics: +
-* Active Job Basics:
+* Active Job Basics: +
