@@ -25,3 +25,4 @@
 * Rails Internationalization API: + 
 * Action Mailer Basics: +
 * Active Job Basics: +
+* Testing Rails Applications:
