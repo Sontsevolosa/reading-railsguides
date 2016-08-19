@@ -26,4 +26,4 @@
 * Action Mailer Basics: +
 * Active Job Basics: +
 * Testing Rails Applications: +
-* Securing Rails Applications:
+* Securing Rails Applications (1/5): +
