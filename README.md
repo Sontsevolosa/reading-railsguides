@@ -27,3 +27,4 @@
 * Active Job Basics: +
 * Testing Rails Applications: +
 * Securing Rails Applications: +
+* Debugging Rails Aplications: 
