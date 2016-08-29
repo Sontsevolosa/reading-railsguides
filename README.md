@@ -28,3 +28,4 @@
 * Testing Rails Applications: +
 * Securing Rails Applications: +
 * Debugging Rails Aplications: +
+* Configuring Rails Applications:
