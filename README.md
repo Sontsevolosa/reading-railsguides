@@ -30,3 +30,4 @@
 * Debugging Rails Aplications: +
 * Configuring Rails Applications: +
 * Rails Command Line Tools and Rake Tasks: +
+* Asset Pipeline:
