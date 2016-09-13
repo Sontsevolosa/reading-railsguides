@@ -31,4 +31,4 @@
 * Configuring Rails Applications: +
 * Rails Command Line Tools and Rake Tasks: +
 * Asset Pipeline: +
-* Working with JavaScript in Rails:
+* Working with JavaScript in Rails: +
