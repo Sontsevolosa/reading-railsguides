@@ -33,4 +33,4 @@
 * Asset Pipeline: +
 * Working with JavaScript in Rails: +
 * Autoloading and Reloading Constants: +
-* Caching with Rails: An Overview:
+* Caching with Rails: An Overview: +
