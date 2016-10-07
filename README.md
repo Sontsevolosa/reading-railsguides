@@ -34,4 +34,4 @@
 * Working with JavaScript in Rails: +
 * Autoloading and Reloading Constants: +
 * Caching with Rails: An Overview: +
-* Active Support Instrumentation:
+* Active Support Instrumentation: +
