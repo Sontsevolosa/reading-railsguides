@@ -36,4 +36,4 @@
 * Caching with Rails: An Overview: +
 * Active Support Instrumentation: +
 * Using Rails for API-only Applications: +
-* Action Cable Overview:
+* Action Cable Overview: +
