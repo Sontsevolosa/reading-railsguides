@@ -37,3 +37,5 @@
 * Active Support Instrumentation: +
 * Using Rails for API-only Applications: +
 * Action Cable Overview: +
+
+## Extending Rails
