@@ -39,3 +39,4 @@
 * Action Cable Overview: +
 
 ## Extending Rails
+* The Basics of Creating Rails Plugins:
