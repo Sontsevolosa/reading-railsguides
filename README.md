@@ -40,3 +40,4 @@
 
 ## Extending Rails
 * The Basics of Creating Rails Plugins: +
+* Rails on Rack:
