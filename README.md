@@ -42,4 +42,4 @@
 * The Basics of Creating Rails Plugins: +
 * Rails on Rack: +
 * Creating and Customizing Rails Generators: +
-* Getting Started with Engines:
+* Getting Started with Engines: +
