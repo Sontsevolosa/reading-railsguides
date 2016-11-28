@@ -50,3 +50,4 @@
 * Ruby on Rails Guides Guidelines: -
 
 ## Maintenance Policy
+* Maintenance Policy: +
