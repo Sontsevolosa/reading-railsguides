@@ -43,3 +43,6 @@
 * Rails on Rack: +
 * Creating and Customizing Rails Generators: +
 * Getting Started with Engines: +
+
+## Contributing to Ruby on Rails
+
